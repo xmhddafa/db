@@ -4,11 +4,11 @@
     "name": "faa21",
     "limit": 9899,
     "themeglobal": {
-      "primary": "#00ff9f",
-      "darkBg": "#0a0f14",
-      "darkCard": "#111827",
-      "lightBg": "#f3f4f6",
-      "lightCard": "#e5e7eb"
+      "primary": "#00ff41",
+      "darkBg": "#030712",
+      "darkCard": "#0b1220",
+      "lightBg": "#f0fdf4",
+      "lightCard": "#dcfce7"
     }
   },
   "epepbuyah": {
