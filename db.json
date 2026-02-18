@@ -4,10 +4,10 @@
     "name": "faa21",
     "limit": 9899,
     "themeglobal": {
-      "primary": "#ef4444",
-      "darkBg": "#0a0a0a",
-      "darkCard": "#141414",
-      "lightBg": "#f1f5f9",
+      "primary": "#0f766e",
+      "darkBg": "#052e2b",
+      "darkCard": "#064e3b",
+      "lightBg": "#f0fdf4",
       "lightCard": "#ffffff"
     }
   },
