@@ -4,6 +4,12 @@
       "password": "alamak",
       "history": [
         {
+          "id": "8831545e-c352-4f3c-9776-268fb37cb8b9",
+          "title": "New Chat",
+          "messages": [],
+          "createdAt": "2026-02-21T03:38:44.001Z"
+        },
+        {
           "id": "b9d2254f-1964-4e7b-a6c2-627320aa8250",
           "title": "New Chat",
           "messages": [],
