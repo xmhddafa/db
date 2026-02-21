@@ -2,7 +2,14 @@
   "users": {
     "asujs": {
       "password": "alamak",
-      "history": [],
+      "history": [
+        {
+          "id": "d673570e-7005-4d8c-ba6d-1ca356133b0a",
+          "title": "New Chat",
+          "messages": [],
+          "createdAt": "2026-02-21T03:23:41.602Z"
+        }
+      ],
       "createdAt": "2026-02-21T03:22:31.323Z"
     }
   }
